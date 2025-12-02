@@ -1,5 +1,5 @@
 Hello, I'm histrueandfalse1,
 
-i'm a cool guy,
+I'm a cool guy
 
-i do C#,C,C++,python,lua,html and css
+I program in C#, C ,C++, Python, Lua, HTML & CSS
